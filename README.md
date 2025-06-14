@@ -68,6 +68,7 @@ Validation Accuracy: 82.18%
 
 
 📌 To-Do
+
  Add confusion matrix
 
  Implement data augmentation
