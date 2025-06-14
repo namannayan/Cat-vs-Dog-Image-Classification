@@ -6,10 +6,6 @@ cat-vs-dog-classification/
 
  main.ipynb   # file with main code
  
- train        #training image
- 
- test         #testing  images
- 
  README.md    
         
 
@@ -58,6 +54,10 @@ bash
 jupyter notebook main.ipynb
 Note: Make sure train/ and test/ folders are present in the working directory and contain cats/ and dogs/ subfolders with respective images.
 
+
+*Data set Link
+
+https://www.kaggle.com/datasets/salader/dogs-vs-cats 
 
 
 📊 Sample Results
